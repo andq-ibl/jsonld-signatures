@@ -12,7 +12,8 @@
     "lib/jsonld-signatures.js"
   ],
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^1.5.2",
+    "bitcore-message": "github:CoMakery/bitcore-message#dist",
     "es6-promise": "~2.0.1",
     "jsonld": "~0.4.2",
     "forge": "~0.6.34"
